@@ -36,8 +36,8 @@
             // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
             av: AV, 
             el: '.comment', // 
-            app_id: 'Your APP ID', // 这里填写上面得到的APP ID
-            app_key: 'Your APP KEY', // 这里填写上面得到的APP KEY
+            app_id: '1yY4h4Gz1mcg2c73oOV9er8d-gzGzoHsz', // 
+            app_key: 'iJGDo4h03iEk7rLaLjNYlJpd', // 
             placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' // [v1.0.7 new]留言框占位提示文字
         });
     </script>
